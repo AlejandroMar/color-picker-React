@@ -1,0 +1,29 @@
+.card-container{
+    width: 200px;
+    height: 400px;
+}
+.main-container{
+    width: 200px;
+    height: 400px;  
+    text-align: center;
+}
+
+.color-input{
+    width: 100%;
+    padding: 12px 20px;
+    box-sizing: border-box;
+}
+.set-color-btn{
+    width: 100%;
+    background-color:#1976d2; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+.header-title{
+    color: white;
+}
